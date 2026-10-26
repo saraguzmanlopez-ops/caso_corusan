@@ -679,9 +679,161 @@ son 24 columnas y 48430 datos
                     ANALISTA GESTAO VENDAS SR	        1	0.28
 
 
-df_altas_agosto (solo estan las altas de agosto)
+# df_altas_agosto (solo estan las altas de agosto)
 
-EDa
+    0   Subactividad_desc       583 non-null    str  
+                    
+                                                                Cantidad	Porcentaje (%)
+                Subactividad_desc		
+                fuerzadeventasdirecta                           	165	28.30
+                canaltelefónico-atención	                        153	26.24
+                producciónit	                                    98	16.81
+                callcentertécnico	                                32	5.49
+                instalaciónymantenimientoreddeacceso(redexterna)	29	4.97
+                backoffice	                                        13	2.23
+                mantenimientoredtroncal(redinterna)	                11	1.89
+                operacionesredparaempresas	                        7	1.20
+                desarrollodeproyectosestratégicosytransformación	7	1.20
+                soporteventas	                                    7	1.20
+                ingenieríayconstruccióndeinfraestructurasderedtroncal	5	0.86
+                tecnologíayplanificación	                        4	0.69
+                supervisióndered	                                4	0.69
+                marketingdecliente(ofertacomercial,captaciónyfidelización,pricing,terminales)	4	0.69
+                logísticadeterminalesyequipamientodecliente	        4	0.69
+                tesoreríayplanificaciónfinanciera	                3	0.51
+                planificacióneinteligenciadelnegocio	            3	0.51
+                marketingdeproducto(diseñoydesarrollodeproductosyservicios)	3	0.51
+                gestionydireccion	                                2	0.34
+                contabilidad	                                    2	0.34
+                compras	                                            2	0.34
+                gestiónymantenimientodeedificios	                2	0.34
+                planificaciónycontrolling	                        2	0.34
+                formación	                                        2	0.34
+                operacióndered	                                    2	0.34
+                fuerzadeventasindirecta	                            2	0.34
+                pre-ventas	                                        2	0.34
+                vigilanciayseguridad	                            1	0.17
+                administraciónygestióndecobros	                    1	0.17
+                aseguramientodeingresosycontroldefraude	            1	0.17
+                relacioneslaboralesygestióndealiados	            1	0.17
+                compensación,beneficiosymovilidadglobal	            1	0.17
+                businesspartners	                                1	0.17
+                selección	                                        1	0.17
+                asesoríalegalysoportejurídico	                    1	0.17
+                relacionesregulatoriasynormativas	                1	0.17
+                ingenieríayconstruccióndeinfraestructurasdereddeacceso	1	0.17
+                calidadyoptimizacióndeprocesos	                    1	0.17
+                logísticadered	                                    1	0.17
+                gestióndecontenidos	                                1	0.17
+
+             
+    1   Subactividad            583 non-null    str 
+
+                        
+                                                         Cantidad	Porcentaje (%)
+                    Subactividad		
+                    Fuerza de ventas directa	            165	28.30
+                    Canal telefónico - Atención         	153	26.24
+                    Producción IT	                        98	16.81
+                    Call Center técnico	                    32	5.49
+                    Instalación y mantenimiento Red de Acceso (Red Externa)	29	4.97
+                    Backoffice	                            13	2.23
+                    Mantenimiento Red Troncal (Red Interna)	11	1.89
+                    Operaciones Red para empresas	        7	1.20
+                    Desarrollo de Proyectos Estratégicos y Transformación	7	1.20
+                    Soporte ventas	                        7	1.20
+                    Ingeniería y construcción de infraestructuras de Red Troncal	                             5	0.86
+                    Tecnología y Planificación	            4	0.69
+                    Supervisión de red	                    4	0.69
+                    Marketing de Cliente (Oferta Comercial, Captación y fidelización, Pricing, Terminales)	    4	0.69
+                    Logística de terminales y equipamiento de cliente	4	0.69
+                    Tesorería y planificación financiera	3	0.51
+                    Planificación e Inteligencia del Negocio	3	0.51
+                    Marketing de Producto (Diseño y desarrollo de productos y servicios)	                          3	0.51
+                    Gestión y Direccion	                    2	0.34
+                    Contabilidad	                        2	0.34
+                    Compras	                                2	0.34
+                    Gestión y mantenimiento de edificios	2	0.34
+                    Planificación y controlling	            2	0.34
+                    Formación	                            2	0.34
+                    Operación de red	                    2	0.34
+                    Fuerza de ventas indirecta	            2	0.34
+                    Pre-Ventas	                            2	0.34
+                    Vigilancia y Seguridad	                1	0.17
+                    Administración y gestión de cobros	    1	0.17
+                    Aseguramiento de ingresos y control de fraude	1	0.17
+                    Relaciones Laborales y Gestión de Aliados	1	0.17
+                    Compensación, Beneficios y Movilidad Global	1	0.17
+                    Business Partners	                    1	0.17
+                    Selección	                            1	0.17
+                    Asesoría legal y soporte jurídico       1	0.17
+                    Relaciones regulatorias y normativas	1	0.17
+                    Ingeniería y construcción de infraestructuras de Red de Acceso	                                1	0.17
+                    Calidad y Optimización de procesos	    1	0.17
+                    Logística de red	                    1	0.17
+                    Gestión de Contenidos	                1	0.17
+
+
+    2   Genero                  583 non-null    str  
+                                   Cantidad	Porcentaje (%)
+                        Genero		
+                        M	        322	55.23
+                        F	        261	44.77
+         
+    3   Fecha nacimiento        583 non-null    datetime64[us]
+            Formato AAAA/MM/DD
+
+    4   Clase empleado          583 non-null    str  
+            solo hay un tipo EMT       
+    
+    5   Nombre del puesto       583 non-null    str  
+
+    Los 5 con mas gente;
+      Nombre del puesto
+            ATENDENTE EXPERIENCIA CLIENTE II    114
+            CONSULTOR NEGOCIOS LOJA 8H           68
+            CONSULTOR NEGOCIOS LOJA I 6H         32
+            RECEPCIONISTA LOJA                   28
+            ATENDENTE CO                         27
+    Los 5 con menos gente: 
+            ANALISTA PLANEJAMENTO COMERCIAL JR    1
+            ANALISTA SUPORTE VENDAS SR            1
+            GERENTE NEGOCIOS IV                   1
+            GERENTE NEGOCIOS III                  1
+            ANALISTA QUALIDADE SR                 1
+
+
+    6   COD. UNIDAD DE NEGOCIO  583 non-null    int64 
+    
+                            Cantidad	Porcentaje (%)
+            COD.		
+            185	                 578     99.14
+            156	                   5      0.86
+
+    7   Fecha alta              583 non-null    datetime64[us]
+            Formato AAAA/MM/DD
+
+    8   Tipo alta local         583 non-null    str  
+
+                             Cantidad	Porcentaje (%)
+        Tipo alta 	
+        Admissão	            578	    99.14
+        c.2) Reincorporaciones	  5	    0.86
+                
+    9   Tipo alta global        583 no    
+                                                Cantidad	Porcentaje (%)
+        Tipo alta global		
+        a) Procedentes de empresas AJENAS AL GRUPO	  578	99.14
+            c.2) Reincorporaciones	                    5  	0.86
+
+    
+    10  ID Persona              583 non-null    str 
+     
+                        pone `persona y numero  ---- Persona 1716852 eliminar la palabra persona y espacio dejar solo el numero 
+
+
+
+# EDA
 JULIO :
 
 9   Tipo de contrato                                   48431 non-null  str 
@@ -711,3 +863,12 @@ BAJAS :
  9   Clase de empleado       360 non-null    str  
                     solo hay una clase EMP
                     eliminar columna
+ALTAS:
+
+ 4 clase de empleado      583 non-null    str  
+        solo hay un tipo EMT --   eliminar columna
+
+9 y 8 dan lo mismos datos comprobar porque podriamos eliminar una de las 2 columnas
+
+10   ID persona              360 non-null    str    
+                        pone `persona y numero  ---- Persona 1716852 eliminar la palabra persona y espacio dejar solo el numero 
