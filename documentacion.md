@@ -103,17 +103,17 @@ son 24 columnas y 48430 datos
     destaca 66% de nulos 
 
     En las que mas gente trabaja:
-  
-                    Red - Control de Operaciones de Red	4200	8.672131
-                    Red - Ingeniería de Red de Acceso y Troncal	3995	8.248849
-                    B2B Empresas y Pymes - Ventas B2B	1274	2.630547
-                    B2C Ventas - Gestión Canal Telefónico	872	1.800500
+                                                                   cantidad   porcentaje
+                    Red - Control de Operaciones de Red	            4200	8.672131
+                    Red - Ingeniería de Red de Acceso y Troncal	   3995	8.248849
+                    B2B Empresas y Pymes - Ventas B2B	               1274	2.630547
+                    B2C Ventas - Gestión Canal Telefónico	          872	1.800500
 
     En la que menos gente trabaja:
-
-                    Estrategia - Aceleración de Negocios	3	0.006194
-                    RRHH (sin clasificar)	2	0.004130
-                    Estrategia - Generalista/Multidisciplina	2	0.004130
+                                                                  cantidad   porcentaje
+                    Estrategia - Aceleración de Negocios       	   3	0.006194
+                    RRHH (sin clasificar)                      	   2	0.004130
+                    Estrategia - Generalista/Multidisciplina	      2	0.004130
                     Soporte a la Dirección (Secretaria / Asistente)	1	0.002065
                     Calidad y Procesos - Generalista/Multidisciplina	1	0.002065
 
