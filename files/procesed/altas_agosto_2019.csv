@@ -1,0 +1,584 @@
+Subactividad_desc,Subactividad,Genero,Fecha nacimiento,Clase empleado,Nombre del puesto,COD. UNIDAD DE NEGOCIO,Fecha alta,Tipo alta local,Tipo alta global,ID Persona
+tecnologíayplanificación,Tecnología y Planificación,M,1966-06-27,EMP,OPERADOR DE COMUNICACIONES,156,2019-08-28,c.2) Reincorporaciones,c.2) Reincorporaciones,19887
+tecnologíayplanificación,Tecnología y Planificación,M,1970-12-20,EMP,ASESOR BASE,156,2019-08-09,c.2) Reincorporaciones,c.2) Reincorporaciones,19888
+gestionydireccion,Gestión y Direccion,M,1971-10-09,EMP,OPERADOR DE COMUNICACIONES,156,2019-08-04,c.2) Reincorporaciones,c.2) Reincorporaciones,19890
+gestionydireccion,Gestión y Direccion,M,1971-01-03,EMP,OPERADOR DE COMUNICACIONES,156,2019-08-13,c.2) Reincorporaciones,c.2) Reincorporaciones,19891
+vigilanciayseguridad,Vigilancia y Seguridad,F,1962-11-26,EMP,ADMINISTRATIVO,156,2019-08-08,c.2) Reincorporaciones,c.2) Reincorporaciones,19892
+contabilidad,Contabilidad,F,1994-02-02,EMP,ANALISTA CONTABIL JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20675
+compras,Compras,F,1985-05-22,EMP,COMPRADOR SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20676
+compras,Compras,M,1987-02-26,EMP,ANALISTA PROCESSOS COMPRAS JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20677
+gestiónymantenimientodeedificios,Gestión y mantenimiento de edificios,F,1988-08-08,EMP,CONSULTOR ADMINISTRATIVO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20678
+gestiónymantenimientodeedificios,Gestión y mantenimiento de edificios,F,1979-04-01,EMP,CONSULTOR EFICIENCIA DE ENERGIA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20679
+contabilidad,Contabilidad,M,1987-08-05,EMP,ANALISTA COMISSIONAMENTO SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20680
+planificaciónycontrolling,Planificación y controlling,M,1973-04-26,EMP,CONSULTOR COMISSIONAMENTO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20681
+tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1985-08-27,EMP,CONSULTOR TESOURARIA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20682
+tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1986-02-26,EMP,ANALISTA TESOURARIA SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20683
+tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1990-12-14,EMP,ANALISTA RISCOS FINANCEIROS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20684
+administraciónygestióndecobros,Administración y gestión de cobros,M,1981-09-18,EMP,ANALISTA CONTROLE OPER FINANCEIRAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20685
+aseguramientodeingresosycontroldefraude,Aseguramiento de ingresos y control de fraude,M,1965-07-31,EMP,GERENTE SEGURANCA INFORMACAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20686
+relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1970-11-25,EMP,ENGENHEIRO SEGURANCA TRABALHO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20687
+"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",F,1985-09-05,EMP,MEDICO DO TRABALHO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20688
+businesspartners,Business Partners,F,1974-10-16,EMP,ANALISTA GESTÃO DE PESSOAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20689
+formación,Formación,F,1984-03-28,EMP,ANALISTA GESTÃO DE PESSOAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20690
+formación,Formación,M,1994-03-17,EMP,ANALISTA GESTÃO DE PESSOAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20691
+selección,Selección,F,1973-02-20,EMP,COORDENADOR GESTÃO DE PESSOAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20692
+asesoríalegalysoportejurídico,Asesoría legal y soporte jurídico,F,1988-11-19,EMP,CONSULTOR JURIDICO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20693
+relacionesregulatoriasynormativas,Relaciones regulatorias y normativas,F,1996-02-13,EMP,ADVOGADO PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20694
+producciónit,Producción IT,M,1961-10-05,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20695
+producciónit,Producción IT,F,1989-02-15,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20696
+producciónit,Producción IT,M,1988-07-29,EMP,CONSULTOR SISTEMAS,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20697
+producciónit,Producción IT,M,1992-08-29,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20698
+producciónit,Producción IT,M,1974-03-17,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20699
+producciónit,Producción IT,F,1975-10-31,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20700
+producciónit,Producción IT,M,1975-04-06,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20701
+producciónit,Producción IT,M,1978-08-16,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20702
+producciónit,Producción IT,M,1996-03-16,EMP,ANALISTA SISTEMAS JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20703
+producciónit,Producción IT,M,1989-09-13,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20704
+producciónit,Producción IT,M,1991-11-01,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20705
+producciónit,Producción IT,M,1988-04-26,EMP,CONSULTOR SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20706
+producciónit,Producción IT,F,1991-11-27,EMP,ANALISTA SISTEMAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20707
+producciónit,Producción IT,M,1986-01-13,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20708
+producciónit,Producción IT,M,1986-11-18,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20709
+producciónit,Producción IT,M,1987-12-26,EMP,ANALISTA SISTEMAS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20710
+producciónit,Producción IT,M,1993-06-30,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20711
+producciónit,Producción IT,F,1989-05-06,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20712
+producciónit,Producción IT,M,1972-10-18,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20713
+producciónit,Producción IT,F,1979-08-29,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20714
+producciónit,Producción IT,F,1981-02-19,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20715
+producciónit,Producción IT,F,1985-09-19,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20716
+producciónit,Producción IT,M,1989-07-06,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20717
+producciónit,Producción IT,M,1988-01-24,EMP,CONSULTOR SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20718
+producciónit,Producción IT,F,1993-01-05,EMP,ANALISTA PROJETOS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20719
+producciónit,Producción IT,M,1992-10-07,EMP,ANALISTA PROJETOS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20720
+producciónit,Producción IT,F,1986-12-03,EMP,ANALISTA PROJETOS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20721
+producciónit,Producción IT,M,1983-01-20,EMP,ANALISTA PROJETOS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20722
+producciónit,Producción IT,F,1977-07-12,EMP,ANALISTA PROJETOS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20723
+producciónit,Producción IT,F,1979-06-29,EMP,ANALISTA PROJETOS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20724
+producciónit,Producción IT,F,1982-04-23,EMP,ANALISTA PROJETOS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20725
+producciónit,Producción IT,F,1978-07-29,EMP,GERENTE PROJETOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20726
+producciónit,Producción IT,F,1983-10-03,EMP,ANALISTA PROJETOS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20727
+producciónit,Producción IT,M,1981-08-07,EMP,CONSULTOR PROJETOS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20728
+producciónit,Producción IT,F,1995-06-11,EMP,ANALISTA PROJETOS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20729
+producciónit,Producción IT,M,1976-07-04,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20730
+producciónit,Producción IT,F,1993-03-27,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20731
+producciónit,Producción IT,F,1970-05-04,EMP,CONSULTOR PROJETOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20732
+producciónit,Producción IT,M,1974-01-23,EMP,CONSULTOR PROJETOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20733
+producciónit,Producción IT,M,1989-03-28,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20734
+producciónit,Producción IT,M,1990-09-04,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20735
+producciónit,Producción IT,M,1985-01-24,EMP,ANALISTA PROJETOS SR,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20736
+producciónit,Producción IT,M,1981-03-06,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20737
+producciónit,Producción IT,M,1987-05-11,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20738
+producciónit,Producción IT,F,1984-09-17,EMP,ANALISTA SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20739
+producciónit,Producción IT,M,1991-07-30,EMP,CONSULTOR SISTEMAS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20740
+producciónit,Producción IT,F,1986-01-23,EMP,CONSULTOR SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20741
+producciónit,Producción IT,M,1986-02-04,EMP,CONSULTOR PROCESSOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20742
+producciónit,Producción IT,M,1992-05-14,EMP,CONSULTOR SISTEMAS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20743
+producciónit,Producción IT,M,1986-06-30,EMP,CONSULTOR SISTEMAS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20744
+producciónit,Producción IT,M,1988-10-27,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20745
+producciónit,Producción IT,M,1992-09-27,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20746
+producciónit,Producción IT,F,1994-04-09,EMP,ANALISTA SISTEMAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20747
+producciónit,Producción IT,M,1986-08-03,EMP,CONSULTOR SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20748
+producciónit,Producción IT,M,1995-02-20,EMP,ANALISTA SISTEMAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20749
+producciónit,Producción IT,M,1985-04-14,EMP,CONSULTOR SISTEMAS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20750
+producciónit,Producción IT,M,1984-03-06,EMP,ANALISTA QUALIDADE SISTEMAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20751
+producciónit,Producción IT,F,1985-10-06,EMP,CONSULTOR QUALIDADE SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20752
+producciónit,Producción IT,M,1983-01-22,EMP,COORDENADOR QUALIDADE SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20753
+producciónit,Producción IT,F,1976-06-01,EMP,ANALISTA SISTEMAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20754
+producciónit,Producción IT,M,1980-03-10,EMP,ANALISTA PRODUCAO TI JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20755
+producciónit,Producción IT,M,1987-05-14,EMP,ANALISTA SUPORTE SISTEMAS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20756
+producciónit,Producción IT,M,1981-08-30,EMP,ANALISTA PRODUCAO TI PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20757
+producciónit,Producción IT,M,1982-03-25,EMP,ANALISTA PRODUCAO TI SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20758
+producciónit,Producción IT,M,1972-09-13,EMP,ANALISTA PRODUCAO TI PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20759
+producciónit,Producción IT,M,1990-10-25,EMP,ANALISTA PRODUCAO TI JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20760
+producciónit,Producción IT,M,1983-07-15,EMP,ANALISTA SUPORTE SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20761
+producciónit,Producción IT,M,1975-06-14,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20762
+producciónit,Producción IT,M,1985-12-26,EMP,ANALISTA SUPORTE SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20763
+producciónit,Producción IT,F,1981-05-25,EMP,CONSULTOR PROJETOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20764
+producciónit,Producción IT,M,1976-07-06,EMP,ANALISTA SUPORTE SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20765
+producciónit,Producción IT,M,1979-08-14,EMP,CONSULTOR PROJETOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20766
+producciónit,Producción IT,F,1983-03-18,EMP,CONSULTOR PROJETOS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20767
+producciónit,Producción IT,M,1973-06-21,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20768
+producciónit,Producción IT,M,1983-11-29,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20769
+producciónit,Producción IT,M,1986-04-04,EMP,ANALISTA SUPORTE PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20770
+producciónit,Producción IT,M,1983-10-08,EMP,CONSULTOR REDES,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20771
+producciónit,Producción IT,M,1995-10-05,EMP,ANALISTA QUALIDADE SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20772
+producciónit,Producción IT,M,1987-03-09,EMP,ANALISTA QUALIDADE SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20773
+producciónit,Producción IT,M,1981-12-22,EMP,CONSULTOR QUALIDADE SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20774
+producciónit,Producción IT,F,1970-05-25,EMP,ANALISTA SISTEMAS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20775
+producciónit,Producción IT,M,1983-03-16,EMP,CONSULTOR INOVACAO DIGITAL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20776
+producciónit,Producción IT,M,1990-05-14,EMP,CONSULTOR INOVACAO DIGITAL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20777
+producciónit,Producción IT,M,1990-11-29,EMP,ANALISTA INOVACAO DIGITAL SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20778
+producciónit,Producción IT,M,1981-08-02,EMP,ANALISTA SUPORTE MICROINFORMATICA SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20779
+producciónit,Producción IT,M,1982-08-21,EMP,ANALISTA SUPORTE MICROINFORMATICA SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20780
+producciónit,Producción IT,M,1988-01-06,EMP,ANALISTA SUPORTE MICROINFORMATICA JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20781
+producciónit,Producción IT,M,1994-07-19,EMP,ANALISTA INOVACAO DIGITAL SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20782
+producciónit,Producción IT,M,1994-06-20,EMP,ANALISTA INOVACAO DIGITAL SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20783
+producciónit,Producción IT,M,1989-05-30,EMP,CONSULTOR INOVACAO DIGITAL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20784
+producciónit,Producción IT,M,1993-03-31,EMP,ANALISTA INOVACAO DIGITAL PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20785
+producciónit,Producción IT,M,1985-02-19,EMP,ANALISTA INOVACAO DIGITAL PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20786
+producciónit,Producción IT,F,1981-10-14,EMP,CONSULTOR INOVACAO DIGITAL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20787
+producciónit,Producción IT,F,1994-10-20,EMP,ANALISTA PROCESSOS JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20788
+producciónit,Producción IT,M,1979-08-13,EMP,CONSULTOR SISTEMAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20789
+producciónit,Producción IT,M,1981-09-29,EMP,ANALISTA PROJETOS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20790
+producciónit,Producción IT,F,1990-07-10,EMP,ANALISTA PROJETOS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20791
+producciónit,Producción IT,F,1994-12-03,EMP,ANALISTA PLANEJAMENTO E CONTROLE JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20792
+tecnologíayplanificación,Tecnología y Planificación,F,1984-10-01,EMP,ANALISTA TELECOM SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20793
+ingenieríayconstruccióndeinfraestructurasderedtroncal,Ingeniería y construcción de infraestructuras de Red Troncal,M,1994-04-15,EMP,CONSULTOR TELECOM,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20794
+ingenieríayconstruccióndeinfraestructurasderedtroncal,Ingeniería y construcción de infraestructuras de Red Troncal,M,1989-08-08,EMP,ANALISTA TELECOM SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20795
+ingenieríayconstruccióndeinfraestructurasderedtroncal,Ingeniería y construcción de infraestructuras de Red Troncal,M,1987-01-09,EMP,ANALISTA TELECOM SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20796
+ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1991-11-08,EMP,ANALISTA TELECOM PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20797
+calidadyoptimizacióndeprocesos,Calidad y Optimización de procesos,M,1980-03-22,EMP,ANALISTA PROJETOS SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20798
+operacionesredparaempresas,Operaciones Red para empresas,F,1983-09-18,EMP,ANALISTA TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20799
+operacionesredparaempresas,Operaciones Red para empresas,F,1994-12-20,EMP,ANALISTA SERVICO CLIENTE JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20800
+operacionesredparaempresas,Operaciones Red para empresas,F,1985-02-12,EMP,ANALISTA SERVICO CLIENTE JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20801
+operacionesredparaempresas,Operaciones Red para empresas,M,1990-01-10,EMP,ANALISTA TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20802
+operacionesredparaempresas,Operaciones Red para empresas,M,1981-04-20,EMP,ANALISTA TELECOM PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20803
+operacióndered,Operación de red,M,1983-11-06,EMP,ANALISTA TELECOM SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20804
+supervisióndered,Supervisión de red,M,1992-02-02,EMP,TECNICO TELECOM JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20805
+supervisióndered,Supervisión de red,M,1982-12-25,EMP,TECNICO TELECOM PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20806
+supervisióndered,Supervisión de red,M,1989-02-24,EMP,ANALISTA TELECOM JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20807
+supervisióndered,Supervisión de red,M,1978-09-26,EMP,ANALISTA TELECOM JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20808
+operacióndered,Operación de red,M,1995-11-29,EMP,ANALISTA TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20809
+tecnologíayplanificación,Tecnología y Planificación,M,1981-09-18,EMP,ANALISTA DESENV DE DISPOSITIVOS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20810
+callcentertécnico,Call Center técnico,M,1999-09-30,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20811
+callcentertécnico,Call Center técnico,F,1985-10-12,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20812
+callcentertécnico,Call Center técnico,F,1982-04-23,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20813
+callcentertécnico,Call Center técnico,F,1998-09-10,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20814
+callcentertécnico,Call Center técnico,M,1979-10-06,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20815
+callcentertécnico,Call Center técnico,F,2001-01-17,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20816
+callcentertécnico,Call Center técnico,M,1996-03-06,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20817
+callcentertécnico,Call Center técnico,M,1986-09-22,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20818
+callcentertécnico,Call Center técnico,F,1994-01-18,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20819
+callcentertécnico,Call Center técnico,F,1993-05-29,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20820
+callcentertécnico,Call Center técnico,F,1986-10-22,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20821
+callcentertécnico,Call Center técnico,M,2000-07-07,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20822
+callcentertécnico,Call Center técnico,M,1998-03-29,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20823
+callcentertécnico,Call Center técnico,F,1995-12-03,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20824
+callcentertécnico,Call Center técnico,M,1992-01-10,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20825
+callcentertécnico,Call Center técnico,F,2000-08-07,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20826
+callcentertécnico,Call Center técnico,F,1988-11-19,EMP,ATENDENTE CO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20827
+callcentertécnico,Call Center técnico,F,1985-11-01,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20828
+callcentertécnico,Call Center técnico,F,1984-05-14,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20829
+callcentertécnico,Call Center técnico,M,1999-09-24,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20830
+callcentertécnico,Call Center técnico,F,1997-03-01,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20831
+callcentertécnico,Call Center técnico,F,1997-09-18,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20832
+callcentertécnico,Call Center técnico,F,1991-10-07,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20833
+callcentertécnico,Call Center técnico,M,1999-11-12,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20834
+callcentertécnico,Call Center técnico,M,1995-10-10,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20835
+callcentertécnico,Call Center técnico,F,1988-09-02,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20836
+callcentertécnico,Call Center técnico,M,1995-06-01,EMP,ATENDENTE CO,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20837
+logísticadered,Logística de red,M,1989-09-28,EMP,ASSISTENTE ADMINISTRATIVO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20838
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1991-08-06,EMP,ANALISTA SERVICO CLIENTE SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20839
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1981-05-04,EMP,TECNICO TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20840
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1994-08-02,EMP,TECNICO TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20841
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1994-12-06,EMP,ANALISTA SERVICO CLIENTE PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20842
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1978-01-26,EMP,TECNICO TELECOM PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20843
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1993-08-24,EMP,TECNICO TELECOM JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20844
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),F,1979-06-28,EMP,ANALISTA SERVICO CLIENTE JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20845
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1988-06-28,EMP,ANALISTA SERVICO CLIENTE SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20846
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1985-04-29,EMP,TECNICO TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20847
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1993-06-26,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20848
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1980-04-18,EMP,INSTALADOR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20849
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1997-10-18,EMP,ASSISTENTE TECNICO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20850
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1997-08-28,EMP,ASSISTENTE TECNICO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20851
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1972-04-07,EMP,TECNICO TELECOM PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20852
+callcentertécnico,Call Center técnico,F,1992-02-27,EMP,ATENDENTE DE AGENDAMENTO E CONTROLE,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20853
+callcentertécnico,Call Center técnico,M,1990-07-16,EMP,ATENDENTE DE AGENDAMENTO E CONTROLE,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20854
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1988-01-15,EMP,TECNICO PROJETO PL,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20855
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1994-12-20,EMP,ASSISTENTE TECNICO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20856
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1985-07-05,EMP,ANALISTA SERVICO CLIENTE JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20857
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1998-03-20,EMP,ASSISTENTE TECNICO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20858
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1982-12-14,EMP,ASSISTENTE TECNICO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20859
+ingenieríayconstruccióndeinfraestructurasderedtroncal,Ingeniería y construcción de infraestructuras de Red Troncal,F,1994-09-22,EMP,TECNICO CONSTRUCAO REDES JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20860
+ingenieríayconstruccióndeinfraestructurasderedtroncal,Ingeniería y construcción de infraestructuras de Red Troncal,M,1972-03-04,EMP,SUPERVISOR REDE,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20861
+mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),M,1981-02-18,EMP,TECNICO TELECOM JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20862
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1996-12-20,EMP,INSTALADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20863
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1995-12-10,EMP,REPARADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20864
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1995-02-25,EMP,ASSISTENTE TECNICO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20865
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1971-04-26,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20866
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1995-07-27,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20867
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1998-06-01,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20868
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1981-08-21,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20869
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1991-03-28,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20870
+operacionesredparaempresas,Operaciones Red para empresas,M,1986-07-03,EMP,TECNICO SERVICOS DIGITAIS B2B JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20871
+operacionesredparaempresas,Operaciones Red para empresas,M,1971-02-07,EMP,TECNICO SERVICOS DIGITAIS B2B PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20872
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1978-11-15,EMP,INSTALADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20873
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1979-06-23,EMP,INSTALADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20874
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1995-02-23,EMP,INSTALADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20875
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1983-09-04,EMP,INSTALADOR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20876
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1997-01-08,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20877
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),F,1983-07-15,EMP,AUXILIAR LA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20878
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1987-12-28,EMP,FISCAL TELECOM,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20879
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1978-04-12,EMP,FISCAL TELECOM,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20880
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1987-11-01,EMP,FISCAL TELECOM,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20881
+callcentertécnico,Call Center técnico,F,1992-09-05,EMP,ATENDENTE DE AGENDAMENTO E CONTROLE,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20882
+callcentertécnico,Call Center técnico,F,1978-03-06,EMP,ATENDENTE DE AGENDAMENTO E CONTROLE,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20883
+callcentertécnico,Call Center técnico,F,2001-02-27,EMP,ATENDENTE DE AGENDAMENTO E CONTROLE,185,2019-08-08,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20884
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1968-08-07,EMP,FISCAL TELECOM,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20885
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1991-12-25,EMP,ANALISTA SERVICO CLIENTE JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20886
+instalaciónymantenimientoreddeacceso(redexterna),Instalación y mantenimiento Red de Acceso (Red Externa),M,1991-04-19,EMP,INSTALADOR LA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20887
+"marketingdecliente(ofertacomercial,captaciónyfidelización,pricing,terminales)","Marketing de Cliente (Oferta Comercial, Captación y fidelización, Pricing, Terminales)",F,1987-11-24,EMP,GERENTE CONTAS IV,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20888
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,F,1990-09-10,EMP,ANALISTA MARKETING PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20889
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,M,1997-07-23,EMP,ANALISTA MARKETING JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20890
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,M,1995-09-25,EMP,ANALISTA MARKETING PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20891
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,F,1989-10-11,EMP,CONSULTOR MARKETING,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20892
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-02-02,EMP,ANALISTA EXPERIENCIA CLIENTE SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20893
+canaltelefónico-atención,Canal telefónico - Atención,M,1981-12-10,EMP,ANALISTA RELACIONAMENTO COM CLIENTE PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20894
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-01-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20895
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-02-24,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20896
+canaltelefónico-atención,Canal telefónico - Atención,F,2001-06-07,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20897
+canaltelefónico-atención,Canal telefónico - Atención,M,1986-04-30,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20898
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-11-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20899
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-06-20,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20900
+canaltelefónico-atención,Canal telefónico - Atención,F,1989-02-17,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20901
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-07-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20902
+canaltelefónico-atención,Canal telefónico - Atención,F,2000-12-15,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20903
+canaltelefónico-atención,Canal telefónico - Atención,M,1989-08-02,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20904
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-11-25,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20905
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-07-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20906
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-10-28,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20907
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-09-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20908
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-03-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20909
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-05-17,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20910
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-11-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20911
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-05-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20912
+canaltelefónico-atención,Canal telefónico - Atención,M,1985-07-07,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20913
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-10-11,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20914
+canaltelefónico-atención,Canal telefónico - Atención,M,2000-10-02,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20915
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-11-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20916
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-10-18,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20917
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-01-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20918
+canaltelefónico-atención,Canal telefónico - Atención,F,1982-05-19,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20919
+canaltelefónico-atención,Canal telefónico - Atención,F,1988-05-04,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20920
+canaltelefónico-atención,Canal telefónico - Atención,F,1983-03-03,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20921
+canaltelefónico-atención,Canal telefónico - Atención,F,1983-06-18,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20922
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-10-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20923
+canaltelefónico-atención,Canal telefónico - Atención,F,1990-03-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20924
+canaltelefónico-atención,Canal telefónico - Atención,M,1981-12-15,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20925
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-08-27,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20926
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-04-28,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20927
+canaltelefónico-atención,Canal telefónico - Atención,F,2001-03-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20928
+canaltelefónico-atención,Canal telefónico - Atención,F,1998-10-04,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20929
+canaltelefónico-atención,Canal telefónico - Atención,F,1982-10-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20930
+canaltelefónico-atención,Canal telefónico - Atención,M,1986-03-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20931
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-08-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20932
+canaltelefónico-atención,Canal telefónico - Atención,F,1997-12-14,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20933
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-09-25,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20934
+canaltelefónico-atención,Canal telefónico - Atención,F,1975-12-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20935
+canaltelefónico-atención,Canal telefónico - Atención,F,2001-04-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20936
+canaltelefónico-atención,Canal telefónico - Atención,F,1977-12-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20937
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-09-23,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20938
+canaltelefónico-atención,Canal telefónico - Atención,F,2000-06-04,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20939
+canaltelefónico-atención,Canal telefónico - Atención,F,1974-08-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20940
+canaltelefónico-atención,Canal telefónico - Atención,F,1986-07-20,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20941
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-11-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20942
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-02-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20943
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-07-05,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20944
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-02-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20945
+canaltelefónico-atención,Canal telefónico - Atención,F,1969-01-28,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20946
+canaltelefónico-atención,Canal telefónico - Atención,M,1987-04-16,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20947
+canaltelefónico-atención,Canal telefónico - Atención,F,1985-11-24,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20948
+canaltelefónico-atención,Canal telefónico - Atención,F,1997-11-14,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20949
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-03-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20950
+canaltelefónico-atención,Canal telefónico - Atención,M,1991-06-17,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20951
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-12-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20952
+canaltelefónico-atención,Canal telefónico - Atención,M,1987-12-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20953
+canaltelefónico-atención,Canal telefónico - Atención,F,1989-05-05,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20954
+canaltelefónico-atención,Canal telefónico - Atención,F,1971-07-27,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20955
+canaltelefónico-atención,Canal telefónico - Atención,M,1986-05-20,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20956
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-11-03,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20957
+canaltelefónico-atención,Canal telefónico - Atención,F,1996-11-11,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20958
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-03-24,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20959
+canaltelefónico-atención,Canal telefónico - Atención,F,1991-07-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20960
+canaltelefónico-atención,Canal telefónico - Atención,F,1975-12-16,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20961
+canaltelefónico-atención,Canal telefónico - Atención,M,1983-11-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20962
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-07-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20963
+canaltelefónico-atención,Canal telefónico - Atención,F,2000-07-02,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20964
+canaltelefónico-atención,Canal telefónico - Atención,F,1978-08-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20965
+canaltelefónico-atención,Canal telefónico - Atención,F,1986-12-27,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20966
+canaltelefónico-atención,Canal telefónico - Atención,F,1987-10-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20967
+canaltelefónico-atención,Canal telefónico - Atención,M,1994-11-18,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20968
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-04-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20969
+canaltelefónico-atención,Canal telefónico - Atención,F,1985-09-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20970
+canaltelefónico-atención,Canal telefónico - Atención,M,1995-07-06,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20971
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-09-11,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20972
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-03-15,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20973
+canaltelefónico-atención,Canal telefónico - Atención,F,1980-06-03,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20974
+canaltelefónico-atención,Canal telefónico - Atención,M,2000-07-03,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20975
+canaltelefónico-atención,Canal telefónico - Atención,M,1989-09-07,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20976
+canaltelefónico-atención,Canal telefónico - Atención,F,2001-04-25,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20977
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-05-27,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20978
+canaltelefónico-atención,Canal telefónico - Atención,F,2000-06-07,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20979
+canaltelefónico-atención,Canal telefónico - Atención,M,1991-11-23,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20980
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-02-23,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20981
+canaltelefónico-atención,Canal telefónico - Atención,F,1997-09-15,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20982
+canaltelefónico-atención,Canal telefónico - Atención,M,1990-11-17,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20983
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-07-29,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20984
+canaltelefónico-atención,Canal telefónico - Atención,M,1994-09-30,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20985
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-07-02,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20986
+canaltelefónico-atención,Canal telefónico - Atención,F,1980-02-27,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20987
+canaltelefónico-atención,Canal telefónico - Atención,F,1997-06-11,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20988
+canaltelefónico-atención,Canal telefónico - Atención,F,2001-06-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20989
+canaltelefónico-atención,Canal telefónico - Atención,M,1982-07-16,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20990
+canaltelefónico-atención,Canal telefónico - Atención,M,1995-07-15,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20991
+canaltelefónico-atención,Canal telefónico - Atención,M,1992-04-03,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20992
+canaltelefónico-atención,Canal telefónico - Atención,F,2000-01-09,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20993
+canaltelefónico-atención,Canal telefónico - Atención,M,1995-07-04,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20994
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-03-29,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20995
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-04-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20996
+canaltelefónico-atención,Canal telefónico - Atención,M,1994-04-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20997
+canaltelefónico-atención,Canal telefónico - Atención,M,1989-06-28,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20998
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-03-14,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,20999
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-11-18,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21000
+canaltelefónico-atención,Canal telefónico - Atención,F,1980-10-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21001
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-02-11,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21002
+canaltelefónico-atención,Canal telefónico - Atención,M,1994-10-12,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21003
+canaltelefónico-atención,Canal telefónico - Atención,M,1992-11-17,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21004
+canaltelefónico-atención,Canal telefónico - Atención,F,1968-03-01,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21005
+canaltelefónico-atención,Canal telefónico - Atención,F,1980-06-21,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21006
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-03-13,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21007
+canaltelefónico-atención,Canal telefónico - Atención,F,1980-08-22,EMP,ATENDENTE EXPERIENCIA CLIENTE II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21008
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-04-24,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21009
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-09-22,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21010
+canaltelefónico-atención,Canal telefónico - Atención,F,1989-12-07,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21011
+canaltelefónico-atención,Canal telefónico - Atención,F,1973-11-22,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21012
+canaltelefónico-atención,Canal telefónico - Atención,M,1996-07-10,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21013
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-12-10,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21014
+canaltelefónico-atención,Canal telefónico - Atención,F,1983-11-11,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21015
+canaltelefónico-atención,Canal telefónico - Atención,M,1998-03-23,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21016
+canaltelefónico-atención,Canal telefónico - Atención,F,1997-10-24,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21017
+canaltelefónico-atención,Canal telefónico - Atención,F,1981-10-23,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21018
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-03-28,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21019
+canaltelefónico-atención,Canal telefónico - Atención,M,1991-03-11,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21020
+canaltelefónico-atención,Canal telefónico - Atención,F,1994-09-08,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21021
+canaltelefónico-atención,Canal telefónico - Atención,F,1990-08-20,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21022
+canaltelefónico-atención,Canal telefónico - Atención,F,1985-08-29,EMP,ATENDENTE EXPERIENCIA CLIENTE I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21023
+canaltelefónico-atención,Canal telefónico - Atención,F,1992-09-15,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21024
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-12-26,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21025
+canaltelefónico-atención,Canal telefónico - Atención,M,1999-06-15,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21026
+canaltelefónico-atención,Canal telefónico - Atención,M,2000-05-06,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21027
+canaltelefónico-atención,Canal telefónico - Atención,F,1993-12-08,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21028
+canaltelefónico-atención,Canal telefónico - Atención,F,1995-12-21,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21029
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-04-20,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21030
+canaltelefónico-atención,Canal telefónico - Atención,M,1983-09-15,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21031
+canaltelefónico-atención,Canal telefónico - Atención,M,2000-06-25,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21032
+canaltelefónico-atención,Canal telefónico - Atención,M,1997-08-17,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21033
+canaltelefónico-atención,Canal telefónico - Atención,F,1994-07-26,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21034
+canaltelefónico-atención,Canal telefónico - Atención,F,1983-07-08,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21035
+canaltelefónico-atención,Canal telefónico - Atención,M,1973-01-13,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21036
+canaltelefónico-atención,Canal telefónico - Atención,M,1986-11-02,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21037
+canaltelefónico-atención,Canal telefónico - Atención,M,1990-03-27,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21038
+canaltelefónico-atención,Canal telefónico - Atención,F,1982-02-13,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21039
+canaltelefónico-atención,Canal telefónico - Atención,F,1988-06-07,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21040
+canaltelefónico-atención,Canal telefónico - Atención,M,1985-10-25,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21041
+canaltelefónico-atención,Canal telefónico - Atención,F,1985-01-10,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21042
+canaltelefónico-atención,Canal telefónico - Atención,M,1993-12-09,EMP,ATENDENTE RETENCAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21043
+canaltelefónico-atención,Canal telefónico - Atención,F,1999-08-13,EMP,ATENDENTE RELACIONAMENTO ODC,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21044
+canaltelefónico-atención,Canal telefónico - Atención,F,1987-08-02,EMP,ATENDENTE RELACIONAMENTO ODC,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21045
+logísticadeterminalesyequipamientodecliente,Logística de terminales y equipamiento de cliente,M,1977-10-21,EMP,ANALISTA LOGISTICA JR,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21046
+logísticadeterminalesyequipamientodecliente,Logística de terminales y equipamiento de cliente,M,1967-09-15,EMP,ANALISTA LOGISTICA JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21047
+logísticadeterminalesyequipamientodecliente,Logística de terminales y equipamiento de cliente,M,1989-01-10,EMP,ANALISTA LOGISTICA JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21048
+logísticadeterminalesyequipamientodecliente,Logística de terminales y equipamiento de cliente,F,1990-06-01,EMP,ANALISTA LOGISTICA JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21049
+planificacióneinteligenciadelnegocio,Planificación e Inteligencia del Negocio,M,1979-02-18,EMP,GERENTE PLANEJAMENTO COMERCIAL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21050
+planificacióneinteligenciadelnegocio,Planificación e Inteligencia del Negocio,M,1993-06-15,EMP,ANALISTA PLANEJAMENTO E CONTROLE JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21051
+marketingdeproducto(diseñoydesarrollodeproductosyservicios),Marketing de Producto (Diseño y desarrollo de productos y servicios),F,1983-03-07,EMP,ANALISTA MARKETING SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21052
+gestióndecontenidos,Gestión de Contenidos,M,1989-04-08,EMP,ANALISTA MARKETING PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21053
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-06-19,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21054
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1989-05-21,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21055
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-11-02,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21056
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1995-10-06,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21057
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1999-12-08,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21058
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1989-05-10,EMP,ANALISTA SUPORTE COMERCIAL I,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21059
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1986-02-22,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21060
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1999-04-11,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21061
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-12-04,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21062
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-02-28,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21063
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1979-10-20,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21064
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-11-13,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21065
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1980-11-06,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21066
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1995-02-15,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21067
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1999-11-12,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21068
+fuerzadeventasdirecta,Fuerza de ventas directa,F,2000-07-16,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21069
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-04-20,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21070
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-07-15,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21071
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1978-04-24,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21072
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1984-05-17,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21073
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1988-12-28,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21074
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1980-03-11,EMP,GERENTE CONTAS I,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21075
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1989-03-27,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21076
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1979-09-17,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21077
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1995-08-02,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21078
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1997-08-09,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21079
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1991-09-12,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21080
+soporteventas,Soporte ventas,F,1982-03-26,EMP,ANALISTA SUPORTE VENDAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21081
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1988-08-26,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21082
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1983-11-29,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21083
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-09-24,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21084
+backoffice,Backoffice,F,1999-06-08,EMP,ATENDENTE SUPORTE VENDAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21085
+backoffice,Backoffice,M,1994-02-07,EMP,ASSISTENTE ADMINISTRATIVO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21086
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1994-06-30,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21087
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1984-11-26,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21088
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-06-04,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21089
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-07-01,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21090
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-11-11,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21091
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-09-18,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21092
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-01-15,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21093
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1988-02-12,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21094
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1981-01-19,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21095
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1965-02-26,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21096
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1963-06-29,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21097
+fuerzadeventasindirecta,Fuerza de ventas indirecta,M,1973-03-16,EMP,GERENTE CONTAS II,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21098
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-04-29,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21099
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-03-07,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21100
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-09-03,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21101
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1995-11-23,EMP,RECEPCIONISTA LOJA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21102
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1987-10-13,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21103
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1996-03-24,EMP,RECEPCIONISTA LOJA,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21104
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-10-06,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21105
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-01-04,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21106
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-02-13,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21107
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1983-09-09,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21108
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-06-26,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21109
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1972-03-14,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21110
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1997-04-22,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21111
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1991-11-21,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21112
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1989-07-03,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21113
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1988-05-28,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21114
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1987-06-04,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21115
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-08-27,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21116
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-11-27,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21117
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1991-02-21,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21118
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1982-09-28,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21119
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-08-18,EMP,ANALISTA SUPORTE COMERCIAL I,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21120
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1991-08-07,EMP,ANALISTA SUPORTE COMERCIAL I,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21121
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1988-04-07,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21122
+fuerzadeventasdirecta,Fuerza de ventas directa,F,2000-06-29,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21123
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-05-29,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21124
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1998-03-24,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21125
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1981-07-14,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21126
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1961-08-18,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21127
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1986-09-29,EMP,CONSULTOR NEGOCIOS PREMIUM 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21128
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1990-09-29,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21129
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1985-07-31,EMP,CONSULTOR TECNOLOGICO,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21130
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1973-03-27,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21131
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-10-17,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21132
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1981-02-07,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21133
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1997-01-03,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21134
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1997-03-08,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21135
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1992-07-21,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21136
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-11-23,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21137
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-07-07,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21138
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-04-14,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21139
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-06-03,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21140
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1995-04-12,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21141
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1990-12-15,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21142
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1990-08-05,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21143
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1999-07-31,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21144
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-08-06,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21145
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-10-18,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21146
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1965-10-13,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21147
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1990-02-12,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21148
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1998-02-06,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21149
+soporteventas,Soporte ventas,M,1997-03-05,EMP,ANALISTA SUPORTE VENDAS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21150
+soporteventas,Soporte ventas,F,1984-09-08,EMP,ANALISTA SUPORTE VENDAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21151
+soporteventas,Soporte ventas,F,1986-11-04,EMP,ANALISTA TRADE MARKETING PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21152
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1980-08-08,EMP,CONSULTOR VENDAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21153
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-01-31,EMP,ANALISTA SUPORTE COMERCIAL I,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21154
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-12-19,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21155
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-03-20,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21156
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-07-19,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21157
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1986-10-07,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21158
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1982-07-31,EMP,GERENTE CONTAS II,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21159
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1975-01-07,EMP,CONSULTOR VENDAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21160
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-12-14,EMP,CONSULTOR VENDAS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21161
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1987-02-11,EMP,GERENTE CONTAS II,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21162
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1990-05-08,EMP,GERENTE GERAL LOJA I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21163
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-07-03,EMP,GERENTE NEGOCIOS LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21164
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1997-05-31,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21165
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1980-11-28,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21166
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1981-07-10,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21167
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-03-11,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21168
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1984-12-15,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21169
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1986-01-04,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21170
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1998-02-27,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21171
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1991-10-08,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21172
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-04-23,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21173
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-03-13,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21174
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1999-09-29,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21175
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1996-02-28,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21176
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1999-01-28,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21177
+fuerzadeventasdirecta,Fuerza de ventas directa,F,2000-12-07,EMP,CONSULTOR NEGOCIOS LOJA I 6H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21178
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1997-08-25,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21179
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-11-06,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21180
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1996-02-17,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21181
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1994-02-13,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21182
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-06-19,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21183
+soporteventas,Soporte ventas,M,1986-03-14,EMP,ANALISTA SUPORTE VENDAS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21184
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-01-19,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21185
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-01-17,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21186
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1985-08-11,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21187
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1996-08-11,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21188
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-09-19,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21189
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-02-07,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21190
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-02-17,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21191
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1987-12-15,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21192
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1982-06-01,EMP,GERENTE CONTAS II,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21193
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-01-29,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21194
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-05-14,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21195
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1994-05-23,EMP,RECEPCIONISTA LOJA,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21196
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1986-04-08,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21197
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1974-01-01,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21198
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1984-10-22,EMP,ANALISTA SUPORTE COMERCIAL I,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21199
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1998-04-06,EMP,RECEPCIONISTA LOJA,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21200
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1995-04-22,EMP,GERENTE CONTAS I,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21201
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1986-02-12,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21202
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1988-10-23,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21203
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1983-02-02,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21204
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1995-08-03,EMP,CONSULTOR TECNOLOGICO,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21205
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-12-13,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21206
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-05-25,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21207
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1992-04-20,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21208
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-08-06,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21209
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-05-26,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21210
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-01-11,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21211
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1979-02-28,EMP,CONSULTOR NEGOCIOS LOJA I (NOC),185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21212
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1989-12-28,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21213
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1995-08-19,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21214
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1993-01-10,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21215
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-01-20,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21216
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1983-05-20,EMP,GERENTE GERAL LOJA I,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21217
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1996-06-09,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21218
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1991-04-04,EMP,GERENTE GERAL LOJA I,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21219
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-03-08,EMP,CONSULTOR NEGOCIOS LOJA 8H,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21220
+planificacióneinteligenciadelnegocio,Planificación e Inteligencia del Negocio,M,1982-09-01,EMP,CONSULTOR CANAIS DIGITAIS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21221
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,M,1990-02-23,EMP,GERENTE CANAIS DIGITAIS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21222
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,M,1996-01-31,EMP,ANALISTA TRANSFORMACAO DIGITAL SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21223
+desarrollodeproyectosestratégicosytransformación,Desarrollo de Proyectos Estratégicos y Transformación,M,1991-04-29,EMP,ANALISTA TRANSFORMACAO DIGITAL SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21224
+backoffice,Backoffice,F,1983-05-24,EMP,ANALISTA SERVICOS IMPLANTACAO SR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21225
+backoffice,Backoffice,M,1981-12-16,EMP,CONSULTOR ARQUITETURA SISTEMAS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21226
+backoffice,Backoffice,M,1989-11-17,EMP,ANALISTA ARQUITETURA SISTEMAS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21227
+backoffice,Backoffice,M,1984-07-30,EMP,ANALISTA PROCESSOS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21228
+backoffice,Backoffice,F,1994-07-04,EMP,ANALISTA PROCESSOS JR,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21229
+backoffice,Backoffice,M,1982-08-10,EMP,CONSULTOR PROCESSOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21230
+backoffice,Backoffice,M,1987-06-15,EMP,GERENTE RELAC POS VENDAS II,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21231
+backoffice,Backoffice,F,1984-02-14,EMP,GERENTE RELAC POS VENDAS I,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21232
+backoffice,Backoffice,M,1988-12-01,EMP,ANALISTA PROCESSOS PL,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21233
+backoffice,Backoffice,M,1976-12-25,EMP,CONSULTOR SERVICOS IMPLANTACAO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21234
+pre-ventas,Pre-Ventas,M,1981-01-07,EMP,CONSULTOR PRE VENDAS IV,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21235
+pre-ventas,Pre-Ventas,M,1980-03-06,EMP,CONSULTOR PRE VENDAS IV,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21236
+marketingdeproducto(diseñoydesarrollodeproductosyservicios),Marketing de Producto (Diseño y desarrollo de productos y servicios),M,1978-10-11,EMP,CONSULTOR PRODUTOS,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21237
+marketingdeproducto(diseñoydesarrollodeproductosyservicios),Marketing de Producto (Diseño y desarrollo de productos y servicios),M,1983-07-29,EMP,CONSULTOR PRODUTOS,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21238
+backoffice,Backoffice,M,1981-05-05,EMP,ASSISTENTE ADMINISTRATIVO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21239
+"marketingdecliente(ofertacomercial,captaciónyfidelización,pricing,terminales)","Marketing de Cliente (Oferta Comercial, Captación y fidelización, Pricing, Terminales)",F,1985-05-24,EMP,ASSISTENTE ADMINISTRATIVO,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21240
+"marketingdecliente(ofertacomercial,captaciónyfidelización,pricing,terminales)","Marketing de Cliente (Oferta Comercial, Captación y fidelización, Pricing, Terminales)",M,1982-03-17,EMP,ANALISTA PLANEJAMENTO COMERCIAL JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21241
+"marketingdecliente(ofertacomercial,captaciónyfidelización,pricing,terminales)","Marketing de Cliente (Oferta Comercial, Captación y fidelización, Pricing, Terminales)",F,1983-01-13,EMP,ANALISTA SUPORTE VENDAS SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21242
+soporteventas,Soporte ventas,F,1995-07-16,EMP,ANALISTA SUPORTE VENDAS PL,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21243
+soporteventas,Soporte ventas,F,1993-04-07,EMP,ANALISTA SUPORTE VENDAS JR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21244
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1975-06-11,EMP,GERENTE NEGOCIOS II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21245
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1967-02-17,EMP,GERENTE NEGOCIOS V,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21246
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1980-07-23,EMP,GERENTE NEGOCIOS V,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21247
+fuerzadeventasindirecta,Fuerza de ventas indirecta,F,1979-10-21,EMP,GERENTE NEGOCIOS IV,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21248
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1973-11-20,EMP,GERENTE NEGOCIOS V,185,2019-08-05,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21249
+fuerzadeventasdirecta,Fuerza de ventas directa,M,1972-07-20,EMP,GERENTE NEGOCIOS III,185,2019-08-15,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21250
+fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-05-20,EMP,GERENTE NEGOCIOS II,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21251
+planificaciónycontrolling,Planificación y controlling,M,1989-09-21,EMP,ANALISTA QUALIDADE SR,185,2019-08-13,Admissão,a) Procedentes de empresas AJENAS AL GRUPO,21252

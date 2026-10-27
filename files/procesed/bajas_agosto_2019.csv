@@ -1,0 +1,361 @@
+ID persona,Unidad de Negocio,COD. UNIDAD DE NEGOCIO,Subactividad_desc,Subactividad,Genero,Fecha nacimiento,Fecha fin de contrato,Tipo de baja local,Tipo de baja global,Nombre del puesto
+1716855,España,156,tecnologíayplanificación,Tecnología y Planificación,M,1952-02-12,2019-08-10,b.2) Otras bajas vegetativas,b.2) Otras bajas vegetativas,TITULADO SUPERIOR O MASTER
+1716863,España,156,gestionydireccion,Gestión y Direccion,F,1952-02-12,2019-08-10,b.2) Otras bajas vegetativas,b.2) Otras bajas vegetativas,TITULADO SUPERIOR O MASTER
+1716872,España,156,vigilanciayseguridad,Vigilancia y Seguridad,M,1989-09-14,2019-08-11,b.1) Renuncias voluntarias,b.1) Renuncias voluntarias,TITULADO/TECNICO MEDIO O DE GRADO
+1716873,España,156,vigilanciayseguridad,Vigilancia y Seguridad,F,1988-09-06,2019-08-19,b.1) Renuncias voluntarias,b.1) Renuncias voluntarias,EXPERTO NIVEL 2
+1716956,España,156,tecnologíayplanificación,Tecnología y Planificación,M,1966-12-01,2019-08-21,b.1) Renuncias voluntarias,b.1) Renuncias voluntarias,TITULADO SUPERIOR O MASTER
+1716957,España,156,tecnologíayplanificación,Tecnología y Planificación,F,1980-02-13,2019-08-22,b.1) Renuncias voluntarias,b.1) Renuncias voluntarias,STAM
+1403140,Brasil,185,intervenciónyauditoria,Intervención y Auditoria,M,1986-01-28,2019-08-16,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1403141,Brasil,185,intervenciónyauditoria,Intervención y Auditoria,M,1995-08-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403142,Brasil,185,intervenciónyauditoria,Intervención y Auditoria,M,1985-06-04,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403188,Brasil,185,tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1992-02-20,2019-08-06,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1403189,Brasil,185,contabilidad,Contabilidad,M,1976-07-02,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1403190,Brasil,185,contabilidad,Contabilidad,M,1992-01-12,2019-08-11,Falecimento morte natural,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403191,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1988-04-01,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1403192,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1978-08-21,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,AUXILIAR LA
+1403193,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1985-01-06,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1403194,Brasil,185,contabilidad,Contabilidad,M,1984-08-26,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403195,Brasil,185,contabilidad,Contabilidad,F,1987-09-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1403196,Brasil,185,contabilidad,Contabilidad,M,1995-02-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403197,Brasil,185,contabilidad,Contabilidad,F,1982-08-16,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1403273,Brasil,185,gestióndeseguros,Gestión de Seguros,F,1959-08-25,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ENGENHEIRO TELECOM SR
+1403274,Brasil,185,gestióndeseguros,Gestión de Seguros,F,1994-10-21,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE CONTAS III
+1403275,Brasil,185,relaciónconinversores,Relación con Inversores,M,1985-12-01,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1403276,Brasil,185,relaciónconinversores,Relación con Inversores,F,1975-04-09,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1403277,Brasil,185,relaciónconinversores,Relación con Inversores,F,1991-09-21,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403278,Brasil,185,relaciónconinversores,Relación con Inversores,F,1991-01-21,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA TELECOM JR
+1403370,Brasil,185,compras,Compras,F,1997-05-09,2019-08-13,Pedido Dem na Experiência,b.1) Renuncias voluntarias,RECEPCIONISTA LOJA
+1403371,Brasil,185,compras,Compras,F,1995-05-21,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403372,Brasil,185,compras,Compras,M,1971-03-08,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR ATENDIMENTO OPERACOES
+1403373,Brasil,185,gestiónfiscalytributaria,Gestión fiscal y tributaria,F,1998-09-23,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1403374,Brasil,185,gestiónfiscalytributaria,Gestión fiscal y tributaria,F,1991-07-19,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403375,Brasil,185,gestiónfiscalytributaria,Gestión fiscal y tributaria,M,1989-09-13,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE GERAL LOJA I
+1403560,Brasil,185,gestiónymantenimientodeedificios,Gestión y mantenimiento de edificios,M,1990-10-18,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1403561,Brasil,185,gestiónymantenimientodeedificios,Gestión y mantenimiento de edificios,M,1988-02-06,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403562,Brasil,185,planificaciónycontrolling,Planificación y controlling,F,1988-11-28,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR RELACIONAMENTO LOJA
+1403563,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1989-03-09,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA SISTEMAS SR
+1403564,Brasil,185,contabilidad,Contabilidad,F,1968-12-16,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1403565,Brasil,185,contabilidad,Contabilidad,M,1978-07-31,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS LOJA (ITIN)
+1403566,Brasil,185,contabilidad,Contabilidad,F,1992-10-28,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403591,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1991-09-09,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1403592,Brasil,185,gestióndeseguros,Gestión de Seguros,F,1988-04-20,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1403593,Brasil,185,gestióndeseguros,Gestión de Seguros,F,1999-03-05,2019-08-05,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403594,Brasil,185,gestióndeseguros,Gestión de Seguros,F,1983-10-29,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1403595,Brasil,185,gestióndeseguros,Gestión de Seguros,M,1981-05-14,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA CONTABIL SR
+1403596,Brasil,185,gestióndeseguros,Gestión de Seguros,M,1982-05-05,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA RELACIONAMENTO COM CLIENTE SR
+1403597,Brasil,185,gestióndeseguros,Gestión de Seguros,M,1985-06-20,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403598,Brasil,185,gestióndeseguros,Gestión de Seguros,M,1994-12-10,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1403778,Brasil,185,planificaciónycontrolling,Planificación y controlling,F,1975-12-04,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS PREMIUM
+1403779,Brasil,185,planificaciónycontrolling,Planificación y controlling,F,1977-07-21,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1403780,Brasil,185,tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1988-08-28,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I (NOC)
+1403781,Brasil,185,tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1964-04-25,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1403782,Brasil,185,tesoreríayplanificaciónfinanciera,Tesorería y planificación financiera,F,1981-11-27,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403808,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,M,1992-08-21,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),RECEPCIONISTA LOJA
+1403809,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,M,1981-10-05,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403810,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,M,1983-11-02,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR SISTEMAS
+1403811,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1986-06-30,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I
+1403812,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1995-06-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1403869,Brasil,185,mercadodecapitales,Mercado de Capitales,M,1983-07-19,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I
+1403870,Brasil,185,mercadodecapitales,Mercado de Capitales,M,1987-03-16,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA EXPERIENCIA CLIENTE SR
+1403871,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1981-02-12,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403872,Brasil,185,planificaciónycontrolling,Planificación y controlling,M,1982-03-16,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1403873,Brasil,185,planificaciónycontrolling,Planificación y controlling,F,1981-12-01,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA SUPORTE COMERCIAL I (OC)
+1403902,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1995-06-08,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),RECEPCIONISTA LOJA
+1403903,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1993-03-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403904,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1982-05-24,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,INSTALADOR LA
+1403905,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1986-11-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1403906,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1983-09-07,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403907,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1982-07-08,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS II
+1403908,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1967-11-28,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403909,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1989-02-03,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1403910,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1975-05-04,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR CREDITO
+1403911,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1994-02-03,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1403912,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1981-02-22,2019-08-08,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE DE AGENDAMENTO E CONTROLE
+1403913,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1993-04-16,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403914,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1994-03-25,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1403915,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1985-09-23,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1403916,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1976-12-10,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE VENDAS B2C
+1403917,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,F,1985-12-16,2019-08-08,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE DE AGENDAMENTO E CONTROLE
+1403918,Brasil,185,gestióndelamorosidadeimpagos,Gestión de la morosidad e Impagos,M,1991-04-07,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1403945,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,F,1981-12-27,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1403946,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,M,1982-02-13,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE CONTAS I
+1403947,Brasil,185,facturación,Facturación,F,1983-07-05,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1403948,Brasil,185,facturación,Facturación,M,1973-08-01,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1403949,Brasil,185,facturación,Facturación,F,1981-07-21,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEMARKETING SME
+1403982,Brasil,185,calidadyoptimizacióndeprocesos,Calidad y Optimización de procesos,F,1983-02-11,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR GESTÃO DE PESSOAS
+1403983,Brasil,185,administraciónygestióndecobros,Administración y gestión de cobros,M,1983-08-03,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I (NOC)
+1404299,Brasil,185,aseguramientodeingresosycontroldefraude,Aseguramiento de ingresos y control de fraude,M,1994-09-26,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE OPERACAO PL
+1404300,Brasil,185,aseguramientodeingresosycontroldefraude,Aseguramiento de ingresos y control de fraude,M,1994-09-16,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1404301,Brasil,185,aseguramientodeingresosycontroldefraude,Aseguramiento de ingresos y control de fraude,M,1985-10-27,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1404302,Brasil,185,"organización,planificaciónyreporting","Organización, Planificación y Reporting",F,1988-09-23,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS PREMIUM 6H
+1404309,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,F,1996-10-27,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I 6H
+1404310,Brasil,185,restodeserviciosgenerales,Resto de servicios generales,M,1986-03-26,2019-08-08,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE TELEVENDAS III
+1404311,Brasil,185,restodeserviciosgenerales,Resto de servicios generales,M,1976-10-25,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1404312,Brasil,185,restodeserviciosgenerales,Resto de servicios generales,F,1990-09-20,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1404313,Brasil,185,restodeserviciosgenerales,Resto de servicios generales,M,1988-05-10,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA GESTAO VENDAS PL
+1404349,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1974-10-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1404350,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1968-02-29,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA LOGISTICA PL
+1404351,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,F,1992-03-31,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE DE AGENDAMENTO E CONTROLE
+1404352,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1996-03-07,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1404353,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1984-02-08,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA TELECOM JR
+1404354,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1983-07-13,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR VENDAS
+1404355,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1985-04-18,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ESPECIALISTA PLANEJAMENTO COMERCIAL
+1404356,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1978-10-03,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS II
+1404416,Brasil,185,"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",F,1979-12-04,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE VENDAS B2C
+1404417,Brasil,185,"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",F,1987-09-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1404418,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1983-03-20,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I (NOC)
+1404419,Brasil,185,relacioneslaboralesygestióndealiados,Relaciones Laborales y Gestión de Aliados,M,1975-02-23,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO TELECOM JR
+1404669,Brasil,185,"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",M,1997-03-17,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1404670,Brasil,185,"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",F,1992-09-01,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1404671,Brasil,185,"compensación,beneficiosymovilidadglobal","Compensación, Beneficios y Movilidad Global",F,1997-05-15,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I 6H
+1404672,Brasil,185,talentoydesarrollo,Talento y Desarrollo,M,1989-02-20,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA PLANEJAMENTO COMERCIAL SR
+1404673,Brasil,185,formación,Formación,F,1982-12-16,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE MARKETING
+1404674,Brasil,185,formación,Formación,F,1986-07-03,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1404675,Brasil,185,formación,Formación,F,1980-06-29,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS V
+1404676,Brasil,185,formación,Formación,M,1981-09-13,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1404677,Brasil,185,formación,Formación,F,1975-09-07,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1404678,Brasil,185,formación,Formación,F,1984-08-25,2019-08-05,Pedido Dem na Experiência,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA 8H
+1404679,Brasil,185,formación,Formación,M,1997-06-18,2019-08-12,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1404779,Brasil,185,talentoydesarrollo,Talento y Desarrollo,F,1992-01-25,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1404780,Brasil,185,talentoydesarrollo,Talento y Desarrollo,F,1998-02-02,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO VENDAS
+1404781,Brasil,185,talentoydesarrollo,Talento y Desarrollo,F,1984-06-01,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1404782,Brasil,185,talentoydesarrollo,Talento y Desarrollo,F,1994-08-03,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1404783,Brasil,185,selección,Selección,F,1984-02-22,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,COORDENADOR SUPORTE SISTEMAS
+1404784,Brasil,185,selección,Selección,F,1984-03-10,2019-08-06,Falecimento morte natural,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1404785,Brasil,185,selección,Selección,M,1983-03-23,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1404786,Brasil,185,selección,Selección,F,1985-03-07,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR TECNOLOGICO
+1404787,Brasil,185,selección,Selección,M,1994-01-12,2019-08-02,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1404788,Brasil,185,selección,Selección,F,1993-06-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1404789,Brasil,185,selección,Selección,M,1987-05-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE ADMINISTRATIVO
+1404790,Brasil,185,selección,Selección,M,1985-04-07,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE ADMINISTRATIVO
+1404791,Brasil,185,selección,Selección,M,1988-02-02,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE ADMINISTRATIVO
+1404792,Brasil,185,selección,Selección,F,1999-06-16,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,RECEPCIONISTA LOJA
+1405029,Brasil,185,asesoríalegalysoportejurídico,Asesoría legal y soporte jurídico,F,1981-08-16,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR SUPORTE
+1405030,Brasil,185,asesoríalegalysoportejurídico,Asesoría legal y soporte jurídico,F,1987-12-25,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1405031,Brasil,185,intervenciónyauditoria,Intervención y Auditoria,M,1989-02-09,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1405032,Brasil,185,intervenciónyauditoria,Intervención y Auditoria,F,1991-09-26,2019-08-02,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1405156,Brasil,185,relacionescongobiernoeinstituciones,Relaciones con gobierno e instituciones,M,1990-01-23,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE COMERCIAL I (OC)
+1405157,Brasil,185,relacionescongobiernoeinstituciones,Relaciones con gobierno e instituciones,F,1971-04-30,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUXILIAR LA
+1405158,Brasil,185,relacionescongobiernoeinstituciones,Relaciones con gobierno e instituciones,F,1988-02-08,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1405159,Brasil,185,relacionescongobiernoeinstituciones,Relaciones con gobierno e instituciones,M,1991-09-27,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1405160,Brasil,185,producciónit,Producción IT,F,1999-12-07,2019-08-12,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1405161,Brasil,185,producciónit,Producción IT,M,1999-11-01,2019-08-05,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1405162,Brasil,185,producciónit,Producción IT,M,1982-08-04,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1405163,Brasil,185,producciónit,Producción IT,M,1994-09-07,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,AUXILIAR LA
+1405164,Brasil,185,producciónit,Producción IT,F,1987-04-14,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+20707,Brasil,185,producciónit,Producción IT,F,1978-01-13,2019-08-28,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE GERAL LOJA I
+20708,Brasil,185,producciónit,Producción IT,M,1988-03-23,2019-08-29,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SISTEMAS JR
+1405167,Brasil,185,producciónit,Producción IT,F,1995-09-04,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE DE AGENDAMENTO E CONTROLE
+1405168,Brasil,185,producciónit,Producción IT,M,1985-11-22,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1405169,Brasil,185,producciónit,Producción IT,M,1993-07-28,2019-08-06,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),CONSULTOR TECNOLOGICO
+1405170,Brasil,185,producciónit,Producción IT,M,1984-05-04,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1405171,Brasil,185,producciónit,Producción IT,M,1969-08-21,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GER SR PROCESSOS FINANCEIROS
+1408744,Brasil,185,calidadyoptimizacióndeprocesos,Calidad y Optimización de procesos,M,1979-12-20,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE CONTAS III
+1408745,Brasil,185,calidadyoptimizacióndeprocesos,Calidad y Optimización de procesos,M,1973-03-02,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1408746,Brasil,185,supervisióndered,Supervisión de red,F,1992-02-10,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,REPARADOR LA
+1408747,Brasil,185,supervisióndered,Supervisión de red,M,1989-12-09,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1408748,Brasil,185,supervisióndered,Supervisión de red,M,1995-09-09,2019-08-06,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1408749,Brasil,185,supervisióndered,Supervisión de red,F,1982-02-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS II
+1408750,Brasil,185,supervisióndered,Supervisión de red,F,1986-09-05,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1408751,Brasil,185,supervisióndered,Supervisión de red,M,1999-08-27,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1408752,Brasil,185,supervisióndered,Supervisión de red,M,1983-01-22,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR PLANEJAMENTO E CONTROLE
+1408753,Brasil,185,supervisióndered,Supervisión de red,M,1983-08-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),COORDENADOR SERVICO AO CLIENTE
+1408754,Brasil,185,supervisióndered,Supervisión de red,M,1989-09-27,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1408755,Brasil,185,supervisióndered,Supervisión de red,M,1990-09-07,2019-08-12,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1408756,Brasil,185,supervisióndered,Supervisión de red,M,1980-03-06,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA CONTROLE OPER FINANCEIRAS SR
+1408757,Brasil,185,supervisióndered,Supervisión de red,F,1979-02-05,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1408758,Brasil,185,supervisióndered,Supervisión de red,M,1977-02-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1408759,Brasil,185,supervisióndered,Supervisión de red,F,1983-04-13,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SERVICO CLIENTE SR
+1408760,Brasil,185,supervisióndered,Supervisión de red,M,1988-03-01,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1408761,Brasil,185,supervisióndered,Supervisión de red,F,1974-04-10,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ENGENHEIRO TELECOM SR
+1408762,Brasil,185,supervisióndered,Supervisión de red,F,1976-08-21,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR BIG DATA
+1408763,Brasil,185,supervisióndered,Supervisión de red,F,1971-06-09,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1408764,Brasil,185,supervisióndered,Supervisión de red,M,1995-09-17,2019-08-02,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),LIGADOR DG
+1408765,Brasil,185,supervisióndered,Supervisión de red,F,1987-07-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1408766,Brasil,185,supervisióndered,Supervisión de red,M,1985-05-02,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1408767,Brasil,185,supervisióndered,Supervisión de red,M,1990-07-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1408768,Brasil,185,supervisióndered,Supervisión de red,F,1990-03-16,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1408769,Brasil,185,supervisióndered,Supervisión de red,M,1975-02-07,2019-08-09,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),CONSULTOR SISTEMAS
+1408770,Brasil,185,supervisióndered,Supervisión de red,M,1987-10-26,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1408771,Brasil,185,supervisióndered,Supervisión de red,M,1997-09-04,2019-08-08,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1408772,Brasil,185,supervisióndered,Supervisión de red,M,1992-08-02,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1408773,Brasil,185,supervisióndered,Supervisión de red,M,1993-08-11,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS PREMIUM
+1408774,Brasil,185,supervisióndered,Supervisión de red,M,2000-04-06,2019-08-06,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I 6H
+1408775,Brasil,185,supervisióndered,Supervisión de red,M,1988-05-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1408776,Brasil,185,supervisióndered,Supervisión de red,M,1985-09-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1408777,Brasil,185,supervisióndered,Supervisión de red,M,1974-01-10,2019-08-08,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE I
+1409290,Brasil,185,operacióndered,Operación de red,M,1994-04-08,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1409291,Brasil,185,operacióndered,Operación de red,F,1991-04-15,2019-08-02,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1409292,Brasil,185,operacióndered,Operación de red,M,1986-08-04,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SUPORTE VENDAS
+1409293,Brasil,185,operacióndered,Operación de red,M,1991-10-26,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS LOJA I
+1409294,Brasil,185,operacióndered,Operación de red,F,1985-12-25,2019-08-10,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE TELEVENDAS I
+1409295,Brasil,185,operacióndered,Operación de red,F,1978-08-25,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR SUPORTE OPERACAO
+1409296,Brasil,185,operacióndered,Operación de red,F,1993-12-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409297,Brasil,185,operacióndered,Operación de red,M,1998-01-09,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE ADMINISTRATIVO
+1409298,Brasil,185,operacióndered,Operación de red,M,1997-06-21,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1409299,Brasil,185,operacióndered,Operación de red,M,1983-11-30,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE COMERCIAL III
+1409300,Brasil,185,operacióndered,Operación de red,M,1982-05-25,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE VENDAS PL
+1409301,Brasil,185,operacióndered,Operación de red,F,1976-12-06,2019-08-08,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE NEGOCIOS IS I
+1409302,Brasil,185,operacióndered,Operación de red,F,1978-09-16,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE GERAL LOJA II
+1409303,Brasil,185,operacióndered,Operación de red,M,1981-08-03,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1409304,Brasil,185,tecnologíayplanificación,Tecnología y Planificación,M,1995-07-08,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I (NOC)
+1409431,Brasil,185,aplicaciones/desarrollo,Aplicaciones/Desarrollo,F,1986-04-29,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1409432,Brasil,185,aplicaciones/desarrollo,Aplicaciones/Desarrollo,M,1992-09-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1409433,Brasil,185,aplicaciones/desarrollo,Aplicaciones/Desarrollo,M,1999-01-04,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE RETENCAO
+1409434,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1983-04-06,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1409435,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1994-06-16,2019-08-06,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I 6H
+1409436,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1986-01-06,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1409437,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1989-01-07,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409438,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1992-08-15,2019-08-02,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1409439,Brasil,185,ingenieríayconstruccióndeinfraestructurasdereddeacceso,Ingeniería y construcción de infraestructuras de Red de Acceso,M,1992-12-02,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE RETENCAO
+1409493,Brasil,185,mantenimientoredtroncal(redinterna),Mantenimiento Red Troncal (Red Interna),F,1978-05-25,2019-08-09,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409494,Brasil,185,callcentertécnico,Call Center técnico,F,1998-02-19,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I
+1409495,Brasil,185,callcentertécnico,Call Center técnico,M,1993-01-01,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUDITOR JR
+1409496,Brasil,185,callcentertécnico,Call Center técnico,M,1984-03-08,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA EXPERIENCIA CLIENTE SR
+1409497,Brasil,185,callcentertécnico,Call Center técnico,M,1980-08-31,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS LOJA I
+1409498,Brasil,185,callcentertécnico,Call Center técnico,M,1979-05-11,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE VENDAS B2C
+1409499,Brasil,185,callcentertécnico,Call Center técnico,M,1970-11-23,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR PRODUCAO TI
+1409500,Brasil,185,callcentertécnico,Call Center técnico,M,1992-02-04,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUXILIAR LA
+1409501,Brasil,185,callcentertécnico,Call Center técnico,M,1986-11-29,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409502,Brasil,185,callcentertécnico,Call Center técnico,M,1990-07-09,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409503,Brasil,185,callcentertécnico,Call Center técnico,M,1996-05-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1409504,Brasil,185,callcentertécnico,Call Center técnico,F,1973-03-20,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),COORDENADOR ADMINISTRATIVO
+1409505,Brasil,185,callcentertécnico,Call Center técnico,F,1989-12-31,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409506,Brasil,185,callcentertécnico,Call Center técnico,F,1978-04-21,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1409507,Brasil,185,callcentertécnico,Call Center técnico,M,1988-06-02,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1409508,Brasil,185,callcentertécnico,Call Center técnico,M,1996-01-06,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE RELACIONAMENTO ODC
+1409509,Brasil,185,callcentertécnico,Call Center técnico,M,1969-03-12,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GER SR CONTROLE OPERACOES FIN
+1409510,Brasil,185,callcentertécnico,Call Center técnico,F,1981-06-19,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR SERVICOS AO CLIENTE
+1409511,Brasil,185,callcentertécnico,Call Center técnico,F,1981-11-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409512,Brasil,185,callcentertécnico,Call Center técnico,F,1992-09-14,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS III
+1409513,Brasil,185,callcentertécnico,Call Center técnico,F,1989-03-14,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE I
+1409514,Brasil,185,callcentertécnico,Call Center técnico,F,1996-03-23,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE DE AGENDAMENTO E CONTROLE
+1409515,Brasil,185,callcentertécnico,Call Center técnico,M,1985-11-21,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1449516,Brasil,185,callcentertécnico,Call Center técnico,M,1975-09-25,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1409517,Brasil,185,callcentertécnico,Call Center técnico,M,1982-03-25,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1409518,Brasil,185,callcentertécnico,Call Center técnico,M,1986-02-04,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA TELECOM JR
+1409519,Brasil,185,callcentertécnico,Call Center técnico,M,1963-01-13,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE VENDAS JR
+1409520,Brasil,185,callcentertécnico,Call Center técnico,M,1975-11-01,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1409521,Brasil,185,callcentertécnico,Call Center técnico,M,1977-01-11,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409522,Brasil,185,callcentertécnico,Call Center técnico,M,1977-04-17,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GER SR CONTROLE OPERACOES FIN
+1409523,Brasil,185,callcentertécnico,Call Center técnico,M,1981-03-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1409524,Brasil,185,callcentertécnico,Call Center técnico,F,1995-07-09,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409525,Brasil,185,callcentertécnico,Call Center técnico,M,1980-04-14,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1409526,Brasil,185,callcentertécnico,Call Center técnico,M,1975-05-22,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR TELECOM
+1409527,Brasil,185,callcentertécnico,Call Center técnico,M,1982-04-08,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR LOGISTICA
+1409528,Brasil,185,callcentertécnico,Call Center técnico,M,1992-08-03,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1409529,Brasil,185,callcentertécnico,Call Center técnico,M,1986-03-02,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I (NOC)
+1409530,Brasil,185,callcentertécnico,Call Center técnico,M,1997-06-08,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1409531,Brasil,185,callcentertécnico,Call Center técnico,M,1994-11-08,2019-08-12,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1409532,Brasil,185,callcentertécnico,Call Center técnico,M,1985-01-22,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR PRE VENDAS IV
+1409533,Brasil,185,callcentertécnico,Call Center técnico,M,1987-09-29,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR MARKETING
+1409534,Brasil,185,callcentertécnico,Call Center técnico,M,1980-12-02,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ADVOGADO SR
+1409535,Brasil,185,callcentertécnico,Call Center técnico,F,1983-12-09,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1409536,Brasil,185,callcentertécnico,Call Center técnico,F,1987-12-21,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO TELECOM JR
+1409537,Brasil,185,callcentertécnico,Call Center técnico,F,1991-10-14,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR RETENCAO I
+1409538,Brasil,185,callcentertécnico,Call Center técnico,F,1993-07-14,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA MARKETING PL
+1409539,Brasil,185,callcentertécnico,Call Center técnico,M,1995-07-10,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1409540,Brasil,185,callcentertécnico,Call Center técnico,M,1984-05-30,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR SUPORTE OPERACAO
+1409541,Brasil,185,callcentertécnico,Call Center técnico,M,1989-03-11,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1409542,Brasil,185,callcentertécnico,Call Center técnico,M,1995-07-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1409543,Brasil,185,callcentertécnico,Call Center técnico,F,1991-07-03,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO VENDAS
+1409544,Brasil,185,callcentertécnico,Call Center técnico,M,1985-10-16,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE RETENCAO
+1409545,Brasil,185,callcentertécnico,Call Center técnico,M,1980-01-04,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE GERAL LOJA II
+1409546,Brasil,185,callcentertécnico,Call Center técnico,F,1988-12-01,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA 8H
+1409547,Brasil,185,callcentertécnico,Call Center técnico,M,1997-06-14,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE I
+1409548,Brasil,185,callcentertécnico,Call Center técnico,M,1997-06-12,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,RECEPCIONISTA LOJA
+1409549,Brasil,185,callcentertécnico,Call Center técnico,F,1973-07-17,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR CONTABILIDADE
+1409550,Brasil,185,callcentertécnico,Call Center técnico,F,1983-07-01,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUXILIAR LA
+1409551,Brasil,185,callcentertécnico,Call Center técnico,M,1993-03-21,2019-08-16,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1409552,Brasil,185,callcentertécnico,Call Center técnico,M,1993-10-06,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409553,Brasil,185,callcentertécnico,Call Center técnico,M,1985-07-05,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1409554,Brasil,185,callcentertécnico,Call Center técnico,M,1981-10-14,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR TECNOLOGICO
+1409555,Brasil,185,callcentertécnico,Call Center técnico,F,1988-08-28,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409556,Brasil,185,callcentertécnico,Call Center técnico,F,1988-09-29,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR SISTEMAS
+1409557,Brasil,185,callcentertécnico,Call Center técnico,M,1981-04-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1409558,Brasil,185,callcentertécnico,Call Center técnico,F,1988-11-22,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409559,Brasil,185,callcentertécnico,Call Center técnico,M,1995-03-29,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1409560,Brasil,185,callcentertécnico,Call Center técnico,M,1993-11-29,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1409561,Brasil,185,callcentertécnico,Call Center técnico,M,1992-08-14,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR RELACIONAMENTO LOJA
+1409562,Brasil,185,callcentertécnico,Call Center técnico,M,1970-05-10,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR PRODUCAO TI
+1409563,Brasil,185,callcentertécnico,Call Center técnico,M,1995-12-07,2019-08-06,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1409564,Brasil,185,callcentertécnico,Call Center técnico,F,1991-12-27,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA QUALIDADE OPERACIONAL JR
+1409565,Brasil,185,callcentertécnico,Call Center técnico,M,1983-09-01,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS PREMIUM
+1409566,Brasil,185,callcentertécnico,Call Center técnico,F,1984-09-23,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I
+1409567,Brasil,185,callcentertécnico,Call Center técnico,F,1985-09-05,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUXILIAR LA
+1409568,Brasil,185,callcentertécnico,Call Center técnico,M,1986-08-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR ATENDIMENTO
+1409569,Brasil,185,callcentertécnico,Call Center técnico,F,1987-04-08,2019-08-08,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE NEGOCIOS II
+1409570,Brasil,185,callcentertécnico,Call Center técnico,F,1995-01-13,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409571,Brasil,185,callcentertécnico,Call Center técnico,F,1982-09-13,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1409572,Brasil,185,callcentertécnico,Call Center técnico,F,1986-05-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1409573,Brasil,185,callcentertécnico,Call Center técnico,F,1994-06-27,2019-08-09,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409574,Brasil,185,callcentertécnico,Call Center técnico,M,1984-09-15,2019-08-09,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1409575,Brasil,185,callcentertécnico,Call Center técnico,M,1967-10-17,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SEGURANCA PATRIMONIAL SR
+1409576,Brasil,185,callcentertécnico,Call Center técnico,M,1981-09-29,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,INSTALADOR LA
+1409577,Brasil,185,callcentertécnico,Call Center técnico,M,1975-02-25,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO TELECOM SR
+1409578,Brasil,185,callcentertécnico,Call Center técnico,F,1986-06-01,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),SUPERVISOR TELEVENDAS I
+1409579,Brasil,185,callcentertécnico,Call Center técnico,M,1983-08-26,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1409580,Brasil,185,callcentertécnico,Call Center técnico,M,1980-09-29,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ENGENHEIRO TELECOM PL
+1409581,Brasil,185,callcentertécnico,Call Center técnico,M,1982-02-05,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE RELAC POS VENDAS III
+1409582,Brasil,185,callcentertécnico,Call Center técnico,F,1988-09-08,2019-08-08,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),ANALISTA CANAIS DIGITAIS SR
+1409583,Brasil,185,callcentertécnico,Call Center técnico,F,1988-03-25,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR MARKETING
+1409584,Brasil,185,callcentertécnico,Call Center técnico,F,1976-10-11,2019-08-16,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1409585,Brasil,185,callcentertécnico,Call Center técnico,M,1992-12-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1409586,Brasil,185,callcentertécnico,Call Center técnico,F,1982-07-31,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1409587,Brasil,185,callcentertécnico,Call Center técnico,M,1984-12-30,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA SUPORTE OPERACAO PL
+1409588,Brasil,185,callcentertécnico,Call Center técnico,F,1999-03-12,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),RECEPCIONISTA LOJA
+1409589,Brasil,185,callcentertécnico,Call Center técnico,M,1993-12-26,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,TRAINEE
+1409590,Brasil,185,callcentertécnico,Call Center técnico,M,1979-04-22,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE CO
+1425896,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-03-04,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR PROJETOS
+1425897,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-02-15,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1425898,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1999-01-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),RECEPCIONISTA LOJA
+1425899,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,M,1993-06-26,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1425900,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1987-05-19,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1425901,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,M,1996-05-14,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RETENCAO
+1425902,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1971-03-18,2019-08-08,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),ATENDENTE DE AGENDAMENTO E CONTROLE
+1425903,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1986-01-20,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1425904,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1992-12-18,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE III
+1425905,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1986-09-17,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
+1425906,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,M,1983-11-11,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO TELECOM JR
+1425907,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1979-06-05,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS III
+1425908,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,M,1988-05-12,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA PLANEJAMENTO E CONTROLE PL
+1425909,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1970-10-18,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO TELECOM JR
+1425910,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1999-06-02,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE COMERCIAL I
+1425911,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1989-04-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I 6H
+1425912,Brasil,185,fuerzadeventasdirecta,Fuerza de ventas directa,F,1990-12-27,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA MARKETING SR
+1419038,Brasil,185,soporteventas,Soporte ventas,F,1961-09-03,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA SUPORTE VENDAS PL
+1419039,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1987-12-15,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE CONTAS IV
+1419040,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1976-10-09,2019-08-07,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE NEGOCIOS IS I
+1419041,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1981-12-14,2019-08-02,Pedido Demissão,b.1) Renuncias voluntarias,CONSULTOR NEGOCIOS LOJA I 6H
+1419042,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1977-11-23,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1419043,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1985-08-18,2019-08-06,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),INSTALADOR LA
+1419044,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1986-04-20,2019-08-05,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE NEGOCIOS LOJA
+1419045,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1974-07-28,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE COE PL
+1419046,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1994-10-14,2019-08-05,Antes Termino Contrato,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419047,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1980-09-03,2019-08-13,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE GERAL LOJA II
+1419048,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1986-07-28,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),TECNICO ADSL
+1419049,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1983-07-15,2019-08-12,Dispensa Com Justa Causa,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419050,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1994-07-24,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419051,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1989-11-16,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA SUPORTE VENDAS PL
+1419052,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1974-04-05,2019-08-15,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),DIR INSPECAO
+1419053,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1981-10-16,2019-08-09,Pedido Demissão,b.1) Renuncias voluntarias,ANALISTA PROJETOS SR
+1419054,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1980-09-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR PROJETOS
+1419055,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1989-01-16,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS LOJA I
+1419056,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1992-01-04,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419057,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1992-07-19,2019-08-08,Pedido Demissão,b.1) Renuncias voluntarias,ATENDENTE EXPERIENCIA CLIENTE II
+1419058,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1988-12-19,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE RELACIONAMENTO ODC
+1497759,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1979-09-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),GERENTE NEGOCIOS LOJA II
+1419060,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1977-02-15,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR INFRAESTRUTURA PREDIAL
+1419061,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1983-01-18,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA PROCESSOS OPERACIONAIS PL
+1419062,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1991-07-16,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),CONSULTOR NEGOCIOS LOJA I
+1419063,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1977-03-27,2019-08-12,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),AUXILIAR LA
+1419064,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1991-05-29,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1419065,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1984-08-09,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419066,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1975-06-21,2019-08-08,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE TELEVENDAS I
+1419067,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1974-06-13,2019-08-12,Pedido Demissão,b.1) Renuncias voluntarias,GERENTE CONTAS I
+1419068,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,M,1991-11-30,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ASSISTENTE TECNICO
+1419069,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1992-12-15,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419070,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1990-12-25,2019-08-05,Pedido Dem na Experiência,b.1) Renuncias voluntarias,ATENDENTE TELEVENDAS III
+1419071,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1991-09-17,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ATENDENTE EXPERIENCIA CLIENTE II
+1419072,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1985-06-20,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),ANALISTA GESTAO VENDAS SR
+1419073,Brasil,185,canaltelefónico-atención,Canal telefónico - Atención,F,1974-01-18,2019-08-05,Dispensa sem Justa Causa AVP Inden.,a.2 ) X otras causas (Indemnizaciones),REPARADOR LA
