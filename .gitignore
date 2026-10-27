@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Python / Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+#Archivos de datos pesados o procesados (opcional, si prefieres no subirlos al repo)
+/files/procesed/
+files/procesed/
+/files/raw/
+files/raw/
