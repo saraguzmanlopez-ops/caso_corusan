@@ -41,3 +41,11 @@ def limpiar_ciudades(df, nombre_columna='Localización Ciudad'):
         print(f"Aviso: La columna '{nombre_columna}' no se encuentra en el DataFrame.")
         
     return df_limpio
+
+
+
+import pandas as pd
+
+def limpiar_id_persona(df, columna):
+    df[columna] = df[columna].astype(str).str.replace('Persona', '', regex=False).str.strip()
+    return df
